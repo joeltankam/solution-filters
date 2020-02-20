@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ProjectB2\ProjectB2.csproj" />
-    <ProjectReference Include="..\ProjectB\ProjectB1.csproj" />
+    <ProjectReference Include="..\ProjectB1\ProjectB1.csproj" />
   </ItemGroup>
 
 </Project>

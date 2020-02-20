@@ -1,9 +1,0 @@
-{
-  "solution": {
-    "path": "Solution.sln",
-    "projects": [
-      "ProjectA\\ProjectA.csproj",
-      "ProjectC\\ProjectC.csproj"
-    ]
-  }
-}
